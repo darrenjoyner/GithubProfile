@@ -1,4 +1,3 @@
-[![Header](https://raw.githubusercontent.com/darrenjoyner/<OWNER>/<OWNER>/readme_header.png "Header")
 ### Hi there, I'm Darren  👋
 
 ## I'm a Student Developer!
