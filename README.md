@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-![linkedin](https://user-images.githubusercontent.com/47825471/119207853-5bd3c300-ba65-11eb-9381-c4838c75b3a9.png[linkedin]
+![linkedin](https://user-images.githubusercontent.com/47825471/119207853-5bd3c300-ba65-11eb-9381-c4838c75b3a9.png
 [<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
