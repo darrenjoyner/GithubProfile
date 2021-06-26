@@ -1,7 +1,7 @@
 ### Hi there, I'm Darren  👋
 
 ## I'm a Student Developer!
-- 🔭 I’m currently working on a [Personal][website]!
+- 🔭 I’m currently working with SQL on Visual Studio!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate, interships, and opportunities to grow! 
 - 🥅 2021 Goals: Gradualte with my Bachelor in Computer Science and Contribute more to Open Source projects
